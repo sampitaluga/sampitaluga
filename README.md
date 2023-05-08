@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@sampitaluga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sampitaluga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/sam-pitaluga-00003a197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/sam-pitaluga-00003a197" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16742467/sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16742467/sam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16742467/sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16742467/sam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
