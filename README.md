@@ -1,4 +1,4 @@
-<img width="100%" alt="MasterHead" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate full-stack developer</h3>
